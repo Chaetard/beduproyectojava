@@ -1,6 +1,5 @@
 package semana6;
 
-
 public class postwork6 {
 
     public static void main(String[] args) {

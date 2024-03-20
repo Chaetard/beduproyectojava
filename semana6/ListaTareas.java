@@ -6,11 +6,8 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ListaTareas {
-
-    private final List<Tarea> tareas = new ArrayList<>();
-
-
     private Lector lector = new Lector();
+    private final List<Tarea> tareas = new ArrayList<>();
     public void creaUnaLista() {
         System.out.println("crea una lista de Tareas");
         String nombre = lector.leeCadena();

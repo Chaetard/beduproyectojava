@@ -1,4 +1,4 @@
 package semana7;
 
-public class postwork7 |{
+public class postwork7 {
 }
